@@ -1,11 +1,21 @@
 <div align="center">
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="steinsiek-logo-dark.svg">
+    <img src="steinsiek-logo.svg" alt="Steinsiek" width="760">
+  </picture>
+  <br>
+  <br>
+</div>
+
+<h2 align="center">Wer dahintersteckt</h2>
+
+<div align="center">
   <table role="presentation">
     <tr>
       <td align="center" width="380">
-        <a href="https://github.com/sergej-stk">
-          <img src="https://github.com/sergej-stk.png?size=200" alt="Sergej Steinsiek" width="160" style="border-radius: 50%;" />
-        </a>
-        <br><br>
+        <img src="https://github.com/sergej-stk.png?size=400" alt="" width="200" height="200" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 0 auto;">
+        <br>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="steinsiek-name-sergej-dark.svg">
           <img src="steinsiek-name-sergej.svg" alt="Sergej Steinsiek" height="26">
@@ -14,10 +24,8 @@
         <a href="https://github.com/sergej-stk">@sergej-stk</a>
       </td>
       <td align="center" width="380">
-        <a href="https://github.com/arek-stk">
-          <img src="https://github.com/arek-stk.png?size=200" alt="Arek Steinsiek" width="160" style="border-radius: 50%;" />
-        </a>
-        <br><br>
+        <img src="https://github.com/arek-stk.png?size=400" alt="" width="200" height="200" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 0 auto;">
+        <br>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="steinsiek-name-arek-dark.svg">
           <img src="steinsiek-name-arek.svg" alt="Arek Steinsiek" height="26">
@@ -27,4 +35,5 @@
       </td>
     </tr>
   </table>
+  <br>
 </div>
