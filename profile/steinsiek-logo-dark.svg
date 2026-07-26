@@ -4,7 +4,7 @@
 
   <style>
     .stroke   { fill: none; stroke-width: 56; stroke-linecap: round; }
-    .struct   { stroke: #FFFFFF; }
+    .struct   { stroke: #A78BFA; }
     .diagonal { stroke: #7C4DFF; }
 
     .draw {
