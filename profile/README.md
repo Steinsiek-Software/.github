@@ -14,13 +14,13 @@
   <table role="presentation">
     <tr>
       <td align="center" width="380">
-        <img src="https://github.com/sergej-stk.png?size=400" alt="" width="200">
-        <h3>Sergej Steinsiek</h3>
+        <img src="https://github.com/sergej-stk.png?size=400" alt="" width="200" height="200" style="border-radius: 50%; object-fit: cover;">
+        <h3>Sergej <span style="color: #512DA8; font-weight: bold;">Steinsiek</span></h3>
         <a href="https://github.com/sergej-stk">@sergej-stk</a>
       </td>
       <td align="center" width="380">
-        <img src="https://github.com/arek-stk.png?size=400" alt="" width="200">
-        <h3>Arek Steinsiek</h3>
+        <img src="https://github.com/arek-stk.png?size=400" alt="" width="200" height="200" style="border-radius: 50%; object-fit: cover;">
+        <h3>Arek <span style="color: #512DA8; font-weight: bold;">Steinsiek</span></h3>
         <a href="https://github.com/arek-stk">@arek-stk</a>
       </td>
     </tr>
