@@ -8,7 +8,7 @@
   <br>
 </div>
 
-<h2 align="center">Wer dahintersteckt</h2>
+<h2 align="center">Team</h2>
 
 <div align="center">
   <table role="presentation">
