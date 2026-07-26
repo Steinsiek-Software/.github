@@ -1,3 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 40" role="img" aria-label="Sergej Steinsiek">
-  <text x="170" y="30" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="30" font-weight="700"><tspan fill="#E6EDF3">Sergej </tspan><tspan fill="#7C4DFF">Steinsiek</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 40" role="img" aria-label="Sergej Steinsiek">
+  <style>
+    .struct { fill: none; stroke: #7E57C2; stroke-width: 56; stroke-linecap: round; }
+    .accent { fill: none; stroke: #7C4DFF; stroke-width: 56; stroke-linecap: round; }
+  </style>
+  <defs>
+    <g id="s">
+      <path class="struct" d="M130 125a51 51 0 1 0-51 51"/>
+      <path class="struct" d="M130 125a51 51 0 1 0-51 51" transform="rotate(180 79 176)"/>
+    </g>
+    <g id="t">
+      <path class="struct" d="M75 80v192"/>
+      <path class="struct" d="M40 80h70"/>
+    </g>
+    <g id="e">
+      <path class="struct" d="M28 80v192"/>
+      <path class="struct" d="M28 80h84M28 176h70M28 272h84"/>
+    </g>
+    <g id="i"><path class="struct" d="M28 80v192"/></g>
+    <g id="n">
+      <path class="struct" d="M28 80v192M132 80v192"/>
+      <path class="accent" d="M28 80l104 192"/>
+    </g>
+    <g id="k">
+      <path class="struct" d="M28 80v192"/>
+      <path class="accent" d="M37 176l87-102M37 176l87 102"/>
+    </g>
+  </defs>
+  <text x="105" y="30" text-anchor="end" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#E6EDF3">Sergej</text>
+  <svg x="115" y="0" width="148" height="30" viewBox="0 0 1738 352">
+    <use href="#s" transform="translate(52)"/>
+    <use href="#t" transform="translate(254)"/>
+    <use href="#e" transform="translate(448)"/>
+    <use href="#i" transform="translate(654)"/>
+    <use href="#n" transform="translate(776)"/>
+    <use href="#s" transform="translate(992)"/>
+    <use href="#i" transform="translate(1216)"/>
+    <use href="#e" transform="translate(1338)"/>
+    <use href="#k" transform="translate(1534)"/>
+  </svg>
 </svg>
